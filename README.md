@@ -52,16 +52,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rabin31/rabin31/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
 </div>
 
 ###
+
+<br clear="both">
 
 <p align="center">🌟 Thank You for Visiting My GitHub Profile! 🌟<br>Your interest means the world to me! 🚀 I hope you found something inspiring here. Feel free to explore, collaborate, or reach out—let’s create something amazing together! 💻✨</p>
 
