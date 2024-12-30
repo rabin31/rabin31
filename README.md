@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Rabin Thapa from Nepal<br><br>- 🔭 I’m working as Graphic Designer  and Web Developer<br>- 📚 I'm currently learning Java  + DSA<br>- ⚡ In my free time I enjoy engaging in sports.</p>
+<p align="left">I'm Rabin Thapa from Nepal<br><br>- 🔭 I’m working as Creative Designer and Web Developer<br>- 📚 I'm currently learning Java  + DSA<br>- ⚡ In my free time I enjoy engaging in sports.</p>
 
 ###
 
