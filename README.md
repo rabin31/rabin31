@@ -36,8 +36,6 @@
 
 ###
 
-
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 ###
@@ -66,6 +64,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" height="40" alt="gsap logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40" alt="framer motion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
