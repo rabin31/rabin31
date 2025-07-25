@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Rabin Thapa from Nepaltaar, Kathmandu<br><br>- 🎨 Creative Frontend Developer with strong UI/UX and Graphic Design background<br>- 🔭 Currently working at DiagnoTech Support (P.) Ltd.<br>- 🎓 Pursuing Bachelor's in Computer Application at Saraswati Multiple Campus<br>- 📚 Passionate about building responsive, visually engaging interfaces<br>- ⚡ In my free time I enjoy engaging in sports and creating digital designs</p>
+<p align="left">I'm Rabin Thapa from Nepaltaar, Kathmandu<br><br>- 🎨 Creative Frontend Developer with strong UI/UX and Graphic Design background<br>- 🎓 Pursuing Bachelor's in Computer Application at Saraswati Multiple Campus<br>- 📚 Passionate about building responsive, visually engaging interfaces<br>- 🌐 Check out my portfolio: <a href="https://www.rabinthapa10.com.np" target="_blank">www.rabinthapa10.com.np</a><br>- ⚡ In my free time I enjoy engaging in sports and creating digital designs</p>
 
 ###
 
