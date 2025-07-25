@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Rabin Thapa from Nepal<br><br>- 🔭 I’m working as Creative Designer and Web Developer<br>- 📚 I'm currently learning Java  + DSA<br>- ⚡ In my free time I enjoy engaging in sports.</p>
+<p align="left">I'm Rabin Thapa from Nepal<br><br>- 🔭 I’m working as Creative Designer and Web Developer<br>- 📚 I'm currently learning Backend Development<br>- ⚡ In my free time I enjoy engaging in sports.</p>
 
 ###
 
