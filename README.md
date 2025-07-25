@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 Creative Frontend Developer From Nepal</h1>
+<h1 align="center">Hey there 👋 18 yrs Creative Frontend Developer From Nepal</h1>
 
 ###
 
@@ -36,18 +36,7 @@
 
 ###
 
-<h3 align="left">🚀 Featured Projects</h3>
 
-###
-
-<p align="left">
-<strong>🔬 Nepal Mathematical Society Platform</strong><br>
-Full-featured web platform built with Next.js, Tailwind CSS, and TypeScript for promoting mathematical research and education<br><br>
-<strong>💬 GuffGaff - Real-time Chat Application</strong><br>
-Responsive chat platform with friend request system and real-time messaging using HTML, CSS, JavaScript, and PHP
-</p>
-
-###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
