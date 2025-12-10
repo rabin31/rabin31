@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rabin%20Thapa&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Creative%20Designer%20%26%20Frontend%20Developer&descAlign=50&descAlignY=60" alt="Rabin Thapa Header" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rabin%20Thapa&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Creative%20Designer%20%26%20Frontend%20Developer&descAlign=50&descAlignY=60](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh4eGt2M3A5Mm1qNzlmM2ZmdWZrNG1tb2Z5Z2d2bWdrNXYwcWlsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjltrbWBuDdZ5PigyJ/giphy.gif)" alt="Rabin Thapa Header" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rabin-thapa-a35343260/" target="_blank"><img src="https://img.icons8.com/fluent/35/000000/linkedin-2.png" alt="linkedin"/></a>
